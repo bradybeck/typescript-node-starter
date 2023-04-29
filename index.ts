@@ -1,1 +1,4 @@
-console.log('yellow world');
+var color: string = 'yellow';
+
+console.log(`Hello ${color.toUpperCase()}`);
+
